@@ -1,0 +1,25 @@
+{
+  "name": "twilioquest-node",
+  "version": "0.0.1",
+  "description": "Node.js examples for TwilioQuest",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallboy/twilio_quest.git"
+  },
+  "author": "Tommy Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallboy/twilio_quest/issues"
+  },
+  "homepage": "https://github.com/tallboy/twilio_quest#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
