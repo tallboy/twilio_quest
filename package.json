@@ -21,5 +21,11 @@
   "homepage": "https://github.com/tallboy/twilio_quest#readme",
   "dependencies": {
     "glob": "^7.1.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.5.2",
+    "jest": "^26.5.2"
   }
 }
